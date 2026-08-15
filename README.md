@@ -66,7 +66,6 @@ The system consists of the following major components:
 
 ## 🔄 Working Process
 
-```text
 User Input
     ↓
 Travel Preferences
@@ -80,3 +79,5 @@ Route and Travel Options
 Personalized Itinerary
     ↓
 Travel Recommendations
+
+https://ai-smart-travelling-and-tourism-guide-1.onrender.com/
