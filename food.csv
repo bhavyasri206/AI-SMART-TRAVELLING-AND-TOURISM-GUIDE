@@ -1,0 +1,257 @@
+place_id,city,state,food,type,avg_price,description,meal_type
+1,Visakhapatnam,Andhra Pradesh,Andhra meals,Local Speciality,120,Try Andhra meals while exploring Visakhapatnam.,Lunch
+2,Visakhapatnam,Andhra Pradesh,Pesarattu,Local Speciality,170,Try Pesarattu while exploring Visakhapatnam.,Breakfast
+3,Visakhapatnam,Andhra Pradesh,Pulihora,Local Speciality,220,Try Pulihora while exploring Visakhapatnam.,Dinner
+4,Visakhapatnam,Andhra Pradesh,Gongura rice,Local Speciality,270,Try Gongura rice while exploring Visakhapatnam.,Lunch
+5,Vijayawada,Andhra Pradesh,Andhra meals,Local Speciality,320,Try Andhra meals while exploring Vijayawada.,Lunch
+6,Vijayawada,Andhra Pradesh,Pesarattu,Local Speciality,120,Try Pesarattu while exploring Vijayawada.,Breakfast
+7,Vijayawada,Andhra Pradesh,Pulihora,Local Speciality,170,Try Pulihora while exploring Vijayawada.,Dinner
+8,Vijayawada,Andhra Pradesh,Gongura rice,Local Speciality,220,Try Gongura rice while exploring Vijayawada.,Lunch
+9,Tirupati,Andhra Pradesh,Andhra meals,Local Speciality,270,Try Andhra meals while exploring Tirupati.,Lunch
+10,Tirupati,Andhra Pradesh,Pesarattu,Local Speciality,320,Try Pesarattu while exploring Tirupati.,Breakfast
+11,Tirupati,Andhra Pradesh,Pulihora,Local Speciality,120,Try Pulihora while exploring Tirupati.,Dinner
+12,Tirupati,Andhra Pradesh,Gongura rice,Local Speciality,170,Try Gongura rice while exploring Tirupati.,Lunch
+13,Rajahmundry,Andhra Pradesh,Andhra meals,Local Speciality,220,Try Andhra meals while exploring Rajahmundry.,Lunch
+14,Rajahmundry,Andhra Pradesh,Pesarattu,Local Speciality,270,Try Pesarattu while exploring Rajahmundry.,Breakfast
+15,Rajahmundry,Andhra Pradesh,Pulihora,Local Speciality,320,Try Pulihora while exploring Rajahmundry.,Dinner
+16,Rajahmundry,Andhra Pradesh,Gongura rice,Local Speciality,120,Try Gongura rice while exploring Rajahmundry.,Lunch
+17,Araku Valley,Andhra Pradesh,Andhra meals,Local Speciality,170,Try Andhra meals while exploring Araku Valley.,Lunch
+18,Araku Valley,Andhra Pradesh,Pesarattu,Local Speciality,220,Try Pesarattu while exploring Araku Valley.,Breakfast
+19,Araku Valley,Andhra Pradesh,Pulihora,Local Speciality,270,Try Pulihora while exploring Araku Valley.,Dinner
+20,Araku Valley,Andhra Pradesh,Gongura rice,Local Speciality,320,Try Gongura rice while exploring Araku Valley.,Lunch
+21,Amaravati,Andhra Pradesh,Andhra meals,Local Speciality,120,Try Andhra meals while exploring Amaravati.,Lunch
+22,Amaravati,Andhra Pradesh,Pesarattu,Local Speciality,170,Try Pesarattu while exploring Amaravati.,Breakfast
+23,Amaravati,Andhra Pradesh,Pulihora,Local Speciality,220,Try Pulihora while exploring Amaravati.,Dinner
+24,Amaravati,Andhra Pradesh,Gongura rice,Local Speciality,270,Try Gongura rice while exploring Amaravati.,Lunch
+25,Lepakshi,Andhra Pradesh,Andhra meals,Local Speciality,320,Try Andhra meals while exploring Lepakshi.,Lunch
+26,Lepakshi,Andhra Pradesh,Pesarattu,Local Speciality,120,Try Pesarattu while exploring Lepakshi.,Breakfast
+27,Lepakshi,Andhra Pradesh,Pulihora,Local Speciality,170,Try Pulihora while exploring Lepakshi.,Dinner
+28,Lepakshi,Andhra Pradesh,Gongura rice,Local Speciality,220,Try Gongura rice while exploring Lepakshi.,Lunch
+29,Kurnool,Andhra Pradesh,Andhra meals,Local Speciality,270,Try Andhra meals while exploring Kurnool.,Lunch
+30,Kurnool,Andhra Pradesh,Pesarattu,Local Speciality,320,Try Pesarattu while exploring Kurnool.,Breakfast
+31,Kurnool,Andhra Pradesh,Pulihora,Local Speciality,120,Try Pulihora while exploring Kurnool.,Dinner
+32,Kurnool,Andhra Pradesh,Gongura rice,Local Speciality,170,Try Gongura rice while exploring Kurnool.,Lunch
+33,Hyderabad,Telangana,Andhra meals,Local Speciality,220,Try Andhra meals while exploring Hyderabad.,Lunch
+34,Hyderabad,Telangana,Pesarattu,Local Speciality,270,Try Pesarattu while exploring Hyderabad.,Breakfast
+35,Hyderabad,Telangana,Pulihora,Local Speciality,320,Try Pulihora while exploring Hyderabad.,Dinner
+36,Hyderabad,Telangana,Gongura rice,Local Speciality,120,Try Gongura rice while exploring Hyderabad.,Lunch
+37,Warangal,Telangana,Andhra meals,Local Speciality,170,Try Andhra meals while exploring Warangal.,Lunch
+38,Warangal,Telangana,Pesarattu,Local Speciality,220,Try Pesarattu while exploring Warangal.,Breakfast
+39,Warangal,Telangana,Pulihora,Local Speciality,270,Try Pulihora while exploring Warangal.,Dinner
+40,Warangal,Telangana,Gongura rice,Local Speciality,320,Try Gongura rice while exploring Warangal.,Lunch
+41,Nizamabad,Telangana,Andhra meals,Local Speciality,120,Try Andhra meals while exploring Nizamabad.,Lunch
+42,Nizamabad,Telangana,Pesarattu,Local Speciality,170,Try Pesarattu while exploring Nizamabad.,Breakfast
+43,Nizamabad,Telangana,Pulihora,Local Speciality,220,Try Pulihora while exploring Nizamabad.,Dinner
+44,Nizamabad,Telangana,Gongura rice,Local Speciality,270,Try Gongura rice while exploring Nizamabad.,Lunch
+45,Bhadrachalam,Telangana,Andhra meals,Local Speciality,320,Try Andhra meals while exploring Bhadrachalam.,Lunch
+46,Bhadrachalam,Telangana,Pesarattu,Local Speciality,120,Try Pesarattu while exploring Bhadrachalam.,Breakfast
+47,Bhadrachalam,Telangana,Pulihora,Local Speciality,170,Try Pulihora while exploring Bhadrachalam.,Dinner
+48,Bhadrachalam,Telangana,Gongura rice,Local Speciality,220,Try Gongura rice while exploring Bhadrachalam.,Lunch
+49,Chennai,Tamil Nadu,Dosa & sambar,Local Speciality,270,Try Dosa & sambar while exploring Chennai.,Breakfast
+50,Chennai,Tamil Nadu,Pongal,Local Speciality,320,Try Pongal while exploring Chennai.,Breakfast
+51,Chennai,Tamil Nadu,Chettinad meals,Local Speciality,120,Try Chettinad meals while exploring Chennai.,Lunch
+52,Chennai,Tamil Nadu,Filter coffee,Local Speciality,170,Try Filter coffee while exploring Chennai.,Dinner
+53,Mahabalipuram,Tamil Nadu,Dosa & sambar,Local Speciality,220,Try Dosa & sambar while exploring Mahabalipuram.,Breakfast
+54,Mahabalipuram,Tamil Nadu,Pongal,Local Speciality,270,Try Pongal while exploring Mahabalipuram.,Breakfast
+55,Mahabalipuram,Tamil Nadu,Chettinad meals,Local Speciality,320,Try Chettinad meals while exploring Mahabalipuram.,Lunch
+56,Mahabalipuram,Tamil Nadu,Filter coffee,Local Speciality,120,Try Filter coffee while exploring Mahabalipuram.,Dinner
+57,Madurai,Tamil Nadu,Dosa & sambar,Local Speciality,170,Try Dosa & sambar while exploring Madurai.,Breakfast
+58,Madurai,Tamil Nadu,Pongal,Local Speciality,220,Try Pongal while exploring Madurai.,Breakfast
+59,Madurai,Tamil Nadu,Chettinad meals,Local Speciality,270,Try Chettinad meals while exploring Madurai.,Lunch
+60,Madurai,Tamil Nadu,Filter coffee,Local Speciality,320,Try Filter coffee while exploring Madurai.,Dinner
+61,Ooty,Tamil Nadu,Dosa & sambar,Local Speciality,120,Try Dosa & sambar while exploring Ooty.,Breakfast
+62,Ooty,Tamil Nadu,Pongal,Local Speciality,170,Try Pongal while exploring Ooty.,Breakfast
+63,Ooty,Tamil Nadu,Chettinad meals,Local Speciality,220,Try Chettinad meals while exploring Ooty.,Lunch
+64,Ooty,Tamil Nadu,Filter coffee,Local Speciality,270,Try Filter coffee while exploring Ooty.,Dinner
+65,Kodaikanal,Tamil Nadu,Dosa & sambar,Local Speciality,320,Try Dosa & sambar while exploring Kodaikanal.,Breakfast
+66,Kodaikanal,Tamil Nadu,Pongal,Local Speciality,120,Try Pongal while exploring Kodaikanal.,Breakfast
+67,Kodaikanal,Tamil Nadu,Chettinad meals,Local Speciality,170,Try Chettinad meals while exploring Kodaikanal.,Lunch
+68,Kodaikanal,Tamil Nadu,Filter coffee,Local Speciality,220,Try Filter coffee while exploring Kodaikanal.,Dinner
+69,Rameswaram,Tamil Nadu,Dosa & sambar,Local Speciality,270,Try Dosa & sambar while exploring Rameswaram.,Breakfast
+70,Rameswaram,Tamil Nadu,Pongal,Local Speciality,320,Try Pongal while exploring Rameswaram.,Breakfast
+71,Rameswaram,Tamil Nadu,Chettinad meals,Local Speciality,120,Try Chettinad meals while exploring Rameswaram.,Lunch
+72,Rameswaram,Tamil Nadu,Filter coffee,Local Speciality,170,Try Filter coffee while exploring Rameswaram.,Dinner
+73,Thanjavur,Tamil Nadu,Dosa & sambar,Local Speciality,220,Try Dosa & sambar while exploring Thanjavur.,Breakfast
+74,Thanjavur,Tamil Nadu,Pongal,Local Speciality,270,Try Pongal while exploring Thanjavur.,Breakfast
+75,Thanjavur,Tamil Nadu,Chettinad meals,Local Speciality,320,Try Chettinad meals while exploring Thanjavur.,Lunch
+76,Thanjavur,Tamil Nadu,Filter coffee,Local Speciality,120,Try Filter coffee while exploring Thanjavur.,Dinner
+77,Kanyakumari,Tamil Nadu,Dosa & sambar,Local Speciality,170,Try Dosa & sambar while exploring Kanyakumari.,Breakfast
+78,Kanyakumari,Tamil Nadu,Pongal,Local Speciality,220,Try Pongal while exploring Kanyakumari.,Breakfast
+79,Kanyakumari,Tamil Nadu,Chettinad meals,Local Speciality,270,Try Chettinad meals while exploring Kanyakumari.,Lunch
+80,Kanyakumari,Tamil Nadu,Filter coffee,Local Speciality,320,Try Filter coffee while exploring Kanyakumari.,Dinner
+81,Kochi,Kerala,Appam & stew,Local Speciality,120,Try Appam & stew while exploring Kochi.,Breakfast
+82,Kochi,Kerala,Puttu & kadala,Local Speciality,170,Try Puttu & kadala while exploring Kochi.,Breakfast
+83,Kochi,Kerala,Kerala sadya,Local Speciality,220,Try Kerala sadya while exploring Kochi.,Dinner
+84,Kochi,Kerala,Malabar parotta,Local Speciality,270,Try Malabar parotta while exploring Kochi.,Dinner
+85,Munnar,Kerala,Appam & stew,Local Speciality,320,Try Appam & stew while exploring Munnar.,Breakfast
+86,Munnar,Kerala,Puttu & kadala,Local Speciality,120,Try Puttu & kadala while exploring Munnar.,Breakfast
+87,Munnar,Kerala,Kerala sadya,Local Speciality,170,Try Kerala sadya while exploring Munnar.,Dinner
+88,Munnar,Kerala,Malabar parotta,Local Speciality,220,Try Malabar parotta while exploring Munnar.,Dinner
+89,Alappuzha,Kerala,Appam & stew,Local Speciality,270,Try Appam & stew while exploring Alappuzha.,Breakfast
+90,Alappuzha,Kerala,Puttu & kadala,Local Speciality,320,Try Puttu & kadala while exploring Alappuzha.,Breakfast
+91,Alappuzha,Kerala,Kerala sadya,Local Speciality,120,Try Kerala sadya while exploring Alappuzha.,Dinner
+92,Alappuzha,Kerala,Malabar parotta,Local Speciality,170,Try Malabar parotta while exploring Alappuzha.,Dinner
+93,Kovalam,Kerala,Appam & stew,Local Speciality,220,Try Appam & stew while exploring Kovalam.,Breakfast
+94,Kovalam,Kerala,Puttu & kadala,Local Speciality,270,Try Puttu & kadala while exploring Kovalam.,Breakfast
+95,Kovalam,Kerala,Kerala sadya,Local Speciality,320,Try Kerala sadya while exploring Kovalam.,Dinner
+96,Kovalam,Kerala,Malabar parotta,Local Speciality,120,Try Malabar parotta while exploring Kovalam.,Dinner
+97,Thekkady,Kerala,Appam & stew,Local Speciality,170,Try Appam & stew while exploring Thekkady.,Breakfast
+98,Thekkady,Kerala,Puttu & kadala,Local Speciality,220,Try Puttu & kadala while exploring Thekkady.,Breakfast
+99,Thekkady,Kerala,Kerala sadya,Local Speciality,270,Try Kerala sadya while exploring Thekkady.,Dinner
+100,Thekkady,Kerala,Malabar parotta,Local Speciality,320,Try Malabar parotta while exploring Thekkady.,Dinner
+101,Wayanad,Kerala,Appam & stew,Local Speciality,120,Try Appam & stew while exploring Wayanad.,Breakfast
+102,Wayanad,Kerala,Puttu & kadala,Local Speciality,170,Try Puttu & kadala while exploring Wayanad.,Breakfast
+103,Wayanad,Kerala,Kerala sadya,Local Speciality,220,Try Kerala sadya while exploring Wayanad.,Dinner
+104,Wayanad,Kerala,Malabar parotta,Local Speciality,270,Try Malabar parotta while exploring Wayanad.,Dinner
+105,Varkala,Kerala,Appam & stew,Local Speciality,320,Try Appam & stew while exploring Varkala.,Breakfast
+106,Varkala,Kerala,Puttu & kadala,Local Speciality,120,Try Puttu & kadala while exploring Varkala.,Breakfast
+107,Varkala,Kerala,Kerala sadya,Local Speciality,170,Try Kerala sadya while exploring Varkala.,Dinner
+108,Varkala,Kerala,Malabar parotta,Local Speciality,220,Try Malabar parotta while exploring Varkala.,Dinner
+109,Bengaluru,Karnataka,Bisi bele bath,Local Speciality,270,Try Bisi bele bath while exploring Bengaluru.,Dinner
+110,Bengaluru,Karnataka,Mysore pak,Local Speciality,320,Try Mysore pak while exploring Bengaluru.,Dinner
+111,Bengaluru,Karnataka,Neer dosa,Local Speciality,120,Try Neer dosa while exploring Bengaluru.,Breakfast
+112,Bengaluru,Karnataka,Ragi mudde,Local Speciality,170,Try Ragi mudde while exploring Bengaluru.,Dinner
+113,Mysuru,Karnataka,Bisi bele bath,Local Speciality,220,Try Bisi bele bath while exploring Mysuru.,Dinner
+114,Mysuru,Karnataka,Mysore pak,Local Speciality,270,Try Mysore pak while exploring Mysuru.,Dinner
+115,Mysuru,Karnataka,Neer dosa,Local Speciality,320,Try Neer dosa while exploring Mysuru.,Breakfast
+116,Mysuru,Karnataka,Ragi mudde,Local Speciality,120,Try Ragi mudde while exploring Mysuru.,Dinner
+117,Hampi,Karnataka,Bisi bele bath,Local Speciality,170,Try Bisi bele bath while exploring Hampi.,Dinner
+118,Hampi,Karnataka,Mysore pak,Local Speciality,220,Try Mysore pak while exploring Hampi.,Dinner
+119,Hampi,Karnataka,Neer dosa,Local Speciality,270,Try Neer dosa while exploring Hampi.,Breakfast
+120,Hampi,Karnataka,Ragi mudde,Local Speciality,320,Try Ragi mudde while exploring Hampi.,Dinner
+121,Coorg,Karnataka,Bisi bele bath,Local Speciality,120,Try Bisi bele bath while exploring Coorg.,Dinner
+122,Coorg,Karnataka,Mysore pak,Local Speciality,170,Try Mysore pak while exploring Coorg.,Dinner
+123,Coorg,Karnataka,Neer dosa,Local Speciality,220,Try Neer dosa while exploring Coorg.,Breakfast
+124,Coorg,Karnataka,Ragi mudde,Local Speciality,270,Try Ragi mudde while exploring Coorg.,Dinner
+125,Gokarna,Karnataka,Bisi bele bath,Local Speciality,320,Try Bisi bele bath while exploring Gokarna.,Dinner
+126,Gokarna,Karnataka,Mysore pak,Local Speciality,120,Try Mysore pak while exploring Gokarna.,Dinner
+127,Gokarna,Karnataka,Neer dosa,Local Speciality,170,Try Neer dosa while exploring Gokarna.,Breakfast
+128,Gokarna,Karnataka,Ragi mudde,Local Speciality,220,Try Ragi mudde while exploring Gokarna.,Dinner
+129,Chikmagalur,Karnataka,Bisi bele bath,Local Speciality,270,Try Bisi bele bath while exploring Chikmagalur.,Dinner
+130,Chikmagalur,Karnataka,Mysore pak,Local Speciality,320,Try Mysore pak while exploring Chikmagalur.,Dinner
+131,Chikmagalur,Karnataka,Neer dosa,Local Speciality,120,Try Neer dosa while exploring Chikmagalur.,Breakfast
+132,Chikmagalur,Karnataka,Ragi mudde,Local Speciality,170,Try Ragi mudde while exploring Chikmagalur.,Dinner
+133,Udupi,Karnataka,Bisi bele bath,Local Speciality,220,Try Bisi bele bath while exploring Udupi.,Dinner
+134,Udupi,Karnataka,Mysore pak,Local Speciality,270,Try Mysore pak while exploring Udupi.,Dinner
+135,Udupi,Karnataka,Neer dosa,Local Speciality,320,Try Neer dosa while exploring Udupi.,Breakfast
+136,Udupi,Karnataka,Ragi mudde,Local Speciality,120,Try Ragi mudde while exploring Udupi.,Dinner
+137,Panaji,Goa,Goan fish curry,Local Speciality,170,Try Goan fish curry while exploring Panaji.,Dinner
+138,Panaji,Goa,Pav bhaji,Local Speciality,220,Try Pav bhaji while exploring Panaji.,Dinner
+139,Panaji,Goa,Poi bread,Local Speciality,270,Try Poi bread while exploring Panaji.,Dinner
+140,Panaji,Goa,Bebinca,Local Speciality,320,Try Bebinca while exploring Panaji.,Dinner
+141,North Goa,Goa,Goan fish curry,Local Speciality,120,Try Goan fish curry while exploring North Goa.,Dinner
+142,North Goa,Goa,Pav bhaji,Local Speciality,170,Try Pav bhaji while exploring North Goa.,Dinner
+143,North Goa,Goa,Poi bread,Local Speciality,220,Try Poi bread while exploring North Goa.,Dinner
+144,North Goa,Goa,Bebinca,Local Speciality,270,Try Bebinca while exploring North Goa.,Dinner
+145,South Goa,Goa,Goan fish curry,Local Speciality,320,Try Goan fish curry while exploring South Goa.,Dinner
+146,South Goa,Goa,Pav bhaji,Local Speciality,120,Try Pav bhaji while exploring South Goa.,Dinner
+147,South Goa,Goa,Poi bread,Local Speciality,170,Try Poi bread while exploring South Goa.,Dinner
+148,South Goa,Goa,Bebinca,Local Speciality,220,Try Bebinca while exploring South Goa.,Dinner
+149,Mumbai,Maharashtra,Gujarati thali,Local Speciality,270,Try Gujarati thali while exploring Mumbai.,Lunch
+150,Mumbai,Maharashtra,Dhokla,Local Speciality,320,Try Dhokla while exploring Mumbai.,Dinner
+151,Mumbai,Maharashtra,Pav bhaji,Local Speciality,120,Try Pav bhaji while exploring Mumbai.,Dinner
+152,Mumbai,Maharashtra,Thepla,Local Speciality,170,Try Thepla while exploring Mumbai.,Dinner
+153,Pune,Maharashtra,Gujarati thali,Local Speciality,220,Try Gujarati thali while exploring Pune.,Lunch
+154,Pune,Maharashtra,Dhokla,Local Speciality,270,Try Dhokla while exploring Pune.,Dinner
+155,Pune,Maharashtra,Pav bhaji,Local Speciality,320,Try Pav bhaji while exploring Pune.,Dinner
+156,Pune,Maharashtra,Thepla,Local Speciality,120,Try Thepla while exploring Pune.,Dinner
+157,Mahabaleshwar,Maharashtra,Gujarati thali,Local Speciality,170,Try Gujarati thali while exploring Mahabaleshwar.,Lunch
+158,Mahabaleshwar,Maharashtra,Dhokla,Local Speciality,220,Try Dhokla while exploring Mahabaleshwar.,Dinner
+159,Mahabaleshwar,Maharashtra,Pav bhaji,Local Speciality,270,Try Pav bhaji while exploring Mahabaleshwar.,Dinner
+160,Mahabaleshwar,Maharashtra,Thepla,Local Speciality,320,Try Thepla while exploring Mahabaleshwar.,Dinner
+161,Nashik,Maharashtra,Gujarati thali,Local Speciality,120,Try Gujarati thali while exploring Nashik.,Lunch
+162,Nashik,Maharashtra,Dhokla,Local Speciality,170,Try Dhokla while exploring Nashik.,Dinner
+163,Nashik,Maharashtra,Pav bhaji,Local Speciality,220,Try Pav bhaji while exploring Nashik.,Dinner
+164,Nashik,Maharashtra,Thepla,Local Speciality,270,Try Thepla while exploring Nashik.,Dinner
+165,Aurangabad,Maharashtra,Gujarati thali,Local Speciality,320,Try Gujarati thali while exploring Aurangabad.,Lunch
+166,Aurangabad,Maharashtra,Dhokla,Local Speciality,120,Try Dhokla while exploring Aurangabad.,Dinner
+167,Aurangabad,Maharashtra,Pav bhaji,Local Speciality,170,Try Pav bhaji while exploring Aurangabad.,Dinner
+168,Aurangabad,Maharashtra,Thepla,Local Speciality,220,Try Thepla while exploring Aurangabad.,Dinner
+169,Jaipur,Rajasthan,Dal baati churma,Local Speciality,270,Try Dal baati churma while exploring Jaipur.,Lunch
+170,Jaipur,Rajasthan,Gatte ki sabzi,Local Speciality,320,Try Gatte ki sabzi while exploring Jaipur.,Dinner
+171,Jaipur,Rajasthan,Pyaaz kachori,Local Speciality,120,Try Pyaaz kachori while exploring Jaipur.,Dinner
+172,Jaipur,Rajasthan,Ghevar,Local Speciality,170,Try Ghevar while exploring Jaipur.,Dinner
+173,Udaipur,Rajasthan,Dal baati churma,Local Speciality,220,Try Dal baati churma while exploring Udaipur.,Lunch
+174,Udaipur,Rajasthan,Gatte ki sabzi,Local Speciality,270,Try Gatte ki sabzi while exploring Udaipur.,Dinner
+175,Udaipur,Rajasthan,Pyaaz kachori,Local Speciality,320,Try Pyaaz kachori while exploring Udaipur.,Dinner
+176,Udaipur,Rajasthan,Ghevar,Local Speciality,120,Try Ghevar while exploring Udaipur.,Dinner
+177,Jodhpur,Rajasthan,Dal baati churma,Local Speciality,170,Try Dal baati churma while exploring Jodhpur.,Lunch
+178,Jodhpur,Rajasthan,Gatte ki sabzi,Local Speciality,220,Try Gatte ki sabzi while exploring Jodhpur.,Dinner
+179,Jodhpur,Rajasthan,Pyaaz kachori,Local Speciality,270,Try Pyaaz kachori while exploring Jodhpur.,Dinner
+180,Jodhpur,Rajasthan,Ghevar,Local Speciality,320,Try Ghevar while exploring Jodhpur.,Dinner
+181,Jaisalmer,Rajasthan,Dal baati churma,Local Speciality,120,Try Dal baati churma while exploring Jaisalmer.,Lunch
+182,Jaisalmer,Rajasthan,Gatte ki sabzi,Local Speciality,170,Try Gatte ki sabzi while exploring Jaisalmer.,Dinner
+183,Jaisalmer,Rajasthan,Pyaaz kachori,Local Speciality,220,Try Pyaaz kachori while exploring Jaisalmer.,Dinner
+184,Jaisalmer,Rajasthan,Ghevar,Local Speciality,270,Try Ghevar while exploring Jaisalmer.,Dinner
+185,Pushkar,Rajasthan,Dal baati churma,Local Speciality,320,Try Dal baati churma while exploring Pushkar.,Lunch
+186,Pushkar,Rajasthan,Gatte ki sabzi,Local Speciality,120,Try Gatte ki sabzi while exploring Pushkar.,Dinner
+187,Pushkar,Rajasthan,Pyaaz kachori,Local Speciality,170,Try Pyaaz kachori while exploring Pushkar.,Dinner
+188,Pushkar,Rajasthan,Ghevar,Local Speciality,220,Try Ghevar while exploring Pushkar.,Dinner
+189,Mount Abu,Rajasthan,Dal baati churma,Local Speciality,270,Try Dal baati churma while exploring Mount Abu.,Lunch
+190,Mount Abu,Rajasthan,Gatte ki sabzi,Local Speciality,320,Try Gatte ki sabzi while exploring Mount Abu.,Dinner
+191,Mount Abu,Rajasthan,Pyaaz kachori,Local Speciality,120,Try Pyaaz kachori while exploring Mount Abu.,Dinner
+192,Mount Abu,Rajasthan,Ghevar,Local Speciality,170,Try Ghevar while exploring Mount Abu.,Dinner
+193,Bikaner,Rajasthan,Dal baati churma,Local Speciality,220,Try Dal baati churma while exploring Bikaner.,Lunch
+194,Bikaner,Rajasthan,Gatte ki sabzi,Local Speciality,270,Try Gatte ki sabzi while exploring Bikaner.,Dinner
+195,Bikaner,Rajasthan,Pyaaz kachori,Local Speciality,320,Try Pyaaz kachori while exploring Bikaner.,Dinner
+196,Bikaner,Rajasthan,Ghevar,Local Speciality,120,Try Ghevar while exploring Bikaner.,Dinner
+197,New Delhi,Delhi,Chole bhature,Local Speciality,170,Try Chole bhature while exploring New Delhi.,Dinner
+198,New Delhi,Delhi,Aloo paratha,Local Speciality,220,Try Aloo paratha while exploring New Delhi.,Breakfast
+199,New Delhi,Delhi,Rajma chawal,Local Speciality,270,Try Rajma chawal while exploring New Delhi.,Dinner
+200,New Delhi,Delhi,Kebabs,Local Speciality,320,Try Kebabs while exploring New Delhi.,Dinner
+201,Agra,Uttar Pradesh,Chole bhature,Local Speciality,120,Try Chole bhature while exploring Agra.,Dinner
+202,Agra,Uttar Pradesh,Aloo paratha,Local Speciality,170,Try Aloo paratha while exploring Agra.,Breakfast
+203,Agra,Uttar Pradesh,Rajma chawal,Local Speciality,220,Try Rajma chawal while exploring Agra.,Dinner
+204,Agra,Uttar Pradesh,Kebabs,Local Speciality,270,Try Kebabs while exploring Agra.,Dinner
+205,Varanasi,Uttar Pradesh,Chole bhature,Local Speciality,320,Try Chole bhature while exploring Varanasi.,Dinner
+206,Varanasi,Uttar Pradesh,Aloo paratha,Local Speciality,120,Try Aloo paratha while exploring Varanasi.,Breakfast
+207,Varanasi,Uttar Pradesh,Rajma chawal,Local Speciality,170,Try Rajma chawal while exploring Varanasi.,Dinner
+208,Varanasi,Uttar Pradesh,Kebabs,Local Speciality,220,Try Kebabs while exploring Varanasi.,Dinner
+209,Lucknow,Uttar Pradesh,Chole bhature,Local Speciality,270,Try Chole bhature while exploring Lucknow.,Dinner
+210,Lucknow,Uttar Pradesh,Aloo paratha,Local Speciality,320,Try Aloo paratha while exploring Lucknow.,Breakfast
+211,Lucknow,Uttar Pradesh,Rajma chawal,Local Speciality,120,Try Rajma chawal while exploring Lucknow.,Dinner
+212,Lucknow,Uttar Pradesh,Kebabs,Local Speciality,170,Try Kebabs while exploring Lucknow.,Dinner
+213,Mathura,Uttar Pradesh,Chole bhature,Local Speciality,220,Try Chole bhature while exploring Mathura.,Dinner
+214,Mathura,Uttar Pradesh,Aloo paratha,Local Speciality,270,Try Aloo paratha while exploring Mathura.,Breakfast
+215,Mathura,Uttar Pradesh,Rajma chawal,Local Speciality,320,Try Rajma chawal while exploring Mathura.,Dinner
+216,Mathura,Uttar Pradesh,Kebabs,Local Speciality,120,Try Kebabs while exploring Mathura.,Dinner
+217,Dehradun,Uttarakhand,Chole bhature,Local Speciality,170,Try Chole bhature while exploring Dehradun.,Dinner
+218,Dehradun,Uttarakhand,Aloo paratha,Local Speciality,220,Try Aloo paratha while exploring Dehradun.,Breakfast
+219,Dehradun,Uttarakhand,Rajma chawal,Local Speciality,270,Try Rajma chawal while exploring Dehradun.,Dinner
+220,Dehradun,Uttarakhand,Kebabs,Local Speciality,320,Try Kebabs while exploring Dehradun.,Dinner
+221,Rishikesh,Uttarakhand,Chole bhature,Local Speciality,120,Try Chole bhature while exploring Rishikesh.,Dinner
+222,Rishikesh,Uttarakhand,Aloo paratha,Local Speciality,170,Try Aloo paratha while exploring Rishikesh.,Breakfast
+223,Rishikesh,Uttarakhand,Rajma chawal,Local Speciality,220,Try Rajma chawal while exploring Rishikesh.,Dinner
+224,Rishikesh,Uttarakhand,Kebabs,Local Speciality,270,Try Kebabs while exploring Rishikesh.,Dinner
+225,Nainital,Uttarakhand,Chole bhature,Local Speciality,320,Try Chole bhature while exploring Nainital.,Dinner
+226,Nainital,Uttarakhand,Aloo paratha,Local Speciality,120,Try Aloo paratha while exploring Nainital.,Breakfast
+227,Nainital,Uttarakhand,Rajma chawal,Local Speciality,170,Try Rajma chawal while exploring Nainital.,Dinner
+228,Nainital,Uttarakhand,Kebabs,Local Speciality,220,Try Kebabs while exploring Nainital.,Dinner
+229,Mussoorie,Uttarakhand,Chole bhature,Local Speciality,270,Try Chole bhature while exploring Mussoorie.,Dinner
+230,Mussoorie,Uttarakhand,Aloo paratha,Local Speciality,320,Try Aloo paratha while exploring Mussoorie.,Breakfast
+231,Mussoorie,Uttarakhand,Rajma chawal,Local Speciality,120,Try Rajma chawal while exploring Mussoorie.,Dinner
+232,Mussoorie,Uttarakhand,Kebabs,Local Speciality,170,Try Kebabs while exploring Mussoorie.,Dinner
+233,Haridwar,Uttarakhand,Chole bhature,Local Speciality,220,Try Chole bhature while exploring Haridwar.,Dinner
+234,Haridwar,Uttarakhand,Aloo paratha,Local Speciality,270,Try Aloo paratha while exploring Haridwar.,Breakfast
+235,Haridwar,Uttarakhand,Rajma chawal,Local Speciality,320,Try Rajma chawal while exploring Haridwar.,Dinner
+236,Haridwar,Uttarakhand,Kebabs,Local Speciality,120,Try Kebabs while exploring Haridwar.,Dinner
+237,Shimla,Himachal Pradesh,Chole bhature,Local Speciality,170,Try Chole bhature while exploring Shimla.,Dinner
+238,Shimla,Himachal Pradesh,Aloo paratha,Local Speciality,220,Try Aloo paratha while exploring Shimla.,Breakfast
+239,Shimla,Himachal Pradesh,Rajma chawal,Local Speciality,270,Try Rajma chawal while exploring Shimla.,Dinner
+240,Shimla,Himachal Pradesh,Kebabs,Local Speciality,320,Try Kebabs while exploring Shimla.,Dinner
+241,Manali,Himachal Pradesh,Chole bhature,Local Speciality,120,Try Chole bhature while exploring Manali.,Dinner
+242,Manali,Himachal Pradesh,Aloo paratha,Local Speciality,170,Try Aloo paratha while exploring Manali.,Breakfast
+243,Manali,Himachal Pradesh,Rajma chawal,Local Speciality,220,Try Rajma chawal while exploring Manali.,Dinner
+244,Manali,Himachal Pradesh,Kebabs,Local Speciality,270,Try Kebabs while exploring Manali.,Dinner
+245,Dharamshala,Himachal Pradesh,Chole bhature,Local Speciality,320,Try Chole bhature while exploring Dharamshala.,Dinner
+246,Dharamshala,Himachal Pradesh,Aloo paratha,Local Speciality,120,Try Aloo paratha while exploring Dharamshala.,Breakfast
+247,Dharamshala,Himachal Pradesh,Rajma chawal,Local Speciality,170,Try Rajma chawal while exploring Dharamshala.,Dinner
+248,Dharamshala,Himachal Pradesh,Kebabs,Local Speciality,220,Try Kebabs while exploring Dharamshala.,Dinner
+249,Dalhousie,Himachal Pradesh,Chole bhature,Local Speciality,270,Try Chole bhature while exploring Dalhousie.,Dinner
+250,Dalhousie,Himachal Pradesh,Aloo paratha,Local Speciality,320,Try Aloo paratha while exploring Dalhousie.,Breakfast
+251,Dalhousie,Himachal Pradesh,Rajma chawal,Local Speciality,120,Try Rajma chawal while exploring Dalhousie.,Dinner
+252,Dalhousie,Himachal Pradesh,Kebabs,Local Speciality,170,Try Kebabs while exploring Dalhousie.,Dinner
+253,Srinagar,Jammu and Kashmir,Chole bhature,Local Speciality,220,Try Chole bhature while exploring Srinagar.,Dinner
+254,Srinagar,Jammu and Kashmir,Aloo paratha,Local Speciality,270,Try Aloo paratha while exploring Srinagar.,Breakfast
+255,Srinagar,Jammu and Kashmir,Rajma chawal,Local Speciality,320,Try Rajma chawal while exploring Srinagar.,Dinner
+256,Srinagar,Jammu and Kashmir,Kebabs,Local Speciality,120,Try Kebabs while exploring Srinagar.,Dinner

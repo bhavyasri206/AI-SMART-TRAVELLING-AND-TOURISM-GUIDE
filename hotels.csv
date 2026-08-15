@@ -1,0 +1,257 @@
+place_id,city,state,hotel,price_per_night,rating,type,description
+1,Visakhapatnam,Andhra Pradesh,Visakhapatnam Nature Nest,1500,4.1,Budget,Comfortable budget stay option for visitors to Visakhapatnam.
+2,Visakhapatnam,Andhra Pradesh,Visakhapatnam Heritage Stay,1900,4.2,Mid-range,Comfortable mid-range stay option for visitors to Visakhapatnam.
+3,Visakhapatnam,Andhra Pradesh,Visakhapatnam City Comfort,2300,4.3,Family,Comfortable family-friendly stay option for visitors to Visakhapatnam.
+4,Visakhapatnam,Andhra Pradesh,Visakhapatnam Green Valley Inn,2700,4.4,Boutique,Comfortable boutique stay option for visitors to Visakhapatnam.
+5,Vijayawada,Andhra Pradesh,Vijayawada Travelers Hub,3100,4.5,Budget,Comfortable budget stay option for visitors to Vijayawada.
+6,Vijayawada,Andhra Pradesh,Vijayawada Nature Nest,3500,4.6,Mid-range,Comfortable mid-range stay option for visitors to Vijayawada.
+7,Vijayawada,Andhra Pradesh,Vijayawada Heritage Stay,1500,4.7,Family,Comfortable family-friendly stay option for visitors to Vijayawada.
+8,Vijayawada,Andhra Pradesh,Vijayawada City Comfort,1900,4.8,Boutique,Comfortable boutique stay option for visitors to Vijayawada.
+9,Tirupati,Andhra Pradesh,Tirupati Green Valley Inn,2300,4.9,Budget,Comfortable budget stay option for visitors to Tirupati.
+10,Tirupati,Andhra Pradesh,Tirupati Travelers Hub,2700,4.1,Mid-range,Comfortable mid-range stay option for visitors to Tirupati.
+11,Tirupati,Andhra Pradesh,Tirupati Nature Nest,3100,4.2,Family,Comfortable family-friendly stay option for visitors to Tirupati.
+12,Tirupati,Andhra Pradesh,Tirupati Heritage Stay,3500,4.3,Boutique,Comfortable boutique stay option for visitors to Tirupati.
+13,Rajahmundry,Andhra Pradesh,Rajahmundry City Comfort,1500,4.4,Budget,Comfortable budget stay option for visitors to Rajahmundry.
+14,Rajahmundry,Andhra Pradesh,Rajahmundry Green Valley Inn,1900,4.5,Mid-range,Comfortable mid-range stay option for visitors to Rajahmundry.
+15,Rajahmundry,Andhra Pradesh,Rajahmundry Travelers Hub,2300,4.6,Family,Comfortable family-friendly stay option for visitors to Rajahmundry.
+16,Rajahmundry,Andhra Pradesh,Rajahmundry Nature Nest,2700,4.7,Boutique,Comfortable boutique stay option for visitors to Rajahmundry.
+17,Araku Valley,Andhra Pradesh,Araku Valley Heritage Stay,3100,4.8,Budget,Comfortable budget stay option for visitors to Araku Valley.
+18,Araku Valley,Andhra Pradesh,Araku Valley City Comfort,3500,4.9,Mid-range,Comfortable mid-range stay option for visitors to Araku Valley.
+19,Araku Valley,Andhra Pradesh,Araku Valley Green Valley Inn,1500,4.1,Family,Comfortable family-friendly stay option for visitors to Araku Valley.
+20,Araku Valley,Andhra Pradesh,Araku Valley Travelers Hub,1900,4.2,Boutique,Comfortable boutique stay option for visitors to Araku Valley.
+21,Amaravati,Andhra Pradesh,Amaravati Nature Nest,2300,4.3,Budget,Comfortable budget stay option for visitors to Amaravati.
+22,Amaravati,Andhra Pradesh,Amaravati Heritage Stay,2700,4.4,Mid-range,Comfortable mid-range stay option for visitors to Amaravati.
+23,Amaravati,Andhra Pradesh,Amaravati City Comfort,3100,4.5,Family,Comfortable family-friendly stay option for visitors to Amaravati.
+24,Amaravati,Andhra Pradesh,Amaravati Green Valley Inn,3500,4.6,Boutique,Comfortable boutique stay option for visitors to Amaravati.
+25,Lepakshi,Andhra Pradesh,Lepakshi Travelers Hub,1500,4.7,Budget,Comfortable budget stay option for visitors to Lepakshi.
+26,Lepakshi,Andhra Pradesh,Lepakshi Nature Nest,1900,4.8,Mid-range,Comfortable mid-range stay option for visitors to Lepakshi.
+27,Lepakshi,Andhra Pradesh,Lepakshi Heritage Stay,2300,4.9,Family,Comfortable family-friendly stay option for visitors to Lepakshi.
+28,Lepakshi,Andhra Pradesh,Lepakshi City Comfort,2700,4.1,Boutique,Comfortable boutique stay option for visitors to Lepakshi.
+29,Kurnool,Andhra Pradesh,Kurnool Green Valley Inn,3100,4.2,Budget,Comfortable budget stay option for visitors to Kurnool.
+30,Kurnool,Andhra Pradesh,Kurnool Travelers Hub,3500,4.3,Mid-range,Comfortable mid-range stay option for visitors to Kurnool.
+31,Kurnool,Andhra Pradesh,Kurnool Nature Nest,1500,4.4,Family,Comfortable family-friendly stay option for visitors to Kurnool.
+32,Kurnool,Andhra Pradesh,Kurnool Heritage Stay,1900,4.5,Boutique,Comfortable boutique stay option for visitors to Kurnool.
+33,Hyderabad,Telangana,Hyderabad City Comfort,2300,4.6,Budget,Comfortable budget stay option for visitors to Hyderabad.
+34,Hyderabad,Telangana,Hyderabad Green Valley Inn,2700,4.7,Mid-range,Comfortable mid-range stay option for visitors to Hyderabad.
+35,Hyderabad,Telangana,Hyderabad Travelers Hub,3100,4.8,Family,Comfortable family-friendly stay option for visitors to Hyderabad.
+36,Hyderabad,Telangana,Hyderabad Nature Nest,3500,4.9,Boutique,Comfortable boutique stay option for visitors to Hyderabad.
+37,Warangal,Telangana,Warangal Heritage Stay,1500,4.1,Budget,Comfortable budget stay option for visitors to Warangal.
+38,Warangal,Telangana,Warangal City Comfort,1900,4.2,Mid-range,Comfortable mid-range stay option for visitors to Warangal.
+39,Warangal,Telangana,Warangal Green Valley Inn,2300,4.3,Family,Comfortable family-friendly stay option for visitors to Warangal.
+40,Warangal,Telangana,Warangal Travelers Hub,2700,4.4,Boutique,Comfortable boutique stay option for visitors to Warangal.
+41,Nizamabad,Telangana,Nizamabad Nature Nest,3100,4.5,Budget,Comfortable budget stay option for visitors to Nizamabad.
+42,Nizamabad,Telangana,Nizamabad Heritage Stay,3500,4.6,Mid-range,Comfortable mid-range stay option for visitors to Nizamabad.
+43,Nizamabad,Telangana,Nizamabad City Comfort,1500,4.7,Family,Comfortable family-friendly stay option for visitors to Nizamabad.
+44,Nizamabad,Telangana,Nizamabad Green Valley Inn,1900,4.8,Boutique,Comfortable boutique stay option for visitors to Nizamabad.
+45,Bhadrachalam,Telangana,Bhadrachalam Travelers Hub,2300,4.9,Budget,Comfortable budget stay option for visitors to Bhadrachalam.
+46,Bhadrachalam,Telangana,Bhadrachalam Nature Nest,2700,4.1,Mid-range,Comfortable mid-range stay option for visitors to Bhadrachalam.
+47,Bhadrachalam,Telangana,Bhadrachalam Heritage Stay,3100,4.2,Family,Comfortable family-friendly stay option for visitors to Bhadrachalam.
+48,Bhadrachalam,Telangana,Bhadrachalam City Comfort,3500,4.3,Boutique,Comfortable boutique stay option for visitors to Bhadrachalam.
+49,Chennai,Tamil Nadu,Chennai Green Valley Inn,1500,4.4,Budget,Comfortable budget stay option for visitors to Chennai.
+50,Chennai,Tamil Nadu,Chennai Travelers Hub,1900,4.5,Mid-range,Comfortable mid-range stay option for visitors to Chennai.
+51,Chennai,Tamil Nadu,Chennai Nature Nest,2300,4.6,Family,Comfortable family-friendly stay option for visitors to Chennai.
+52,Chennai,Tamil Nadu,Chennai Heritage Stay,2700,4.7,Boutique,Comfortable boutique stay option for visitors to Chennai.
+53,Mahabalipuram,Tamil Nadu,Mahabalipuram City Comfort,3100,4.8,Budget,Comfortable budget stay option for visitors to Mahabalipuram.
+54,Mahabalipuram,Tamil Nadu,Mahabalipuram Green Valley Inn,3500,4.9,Mid-range,Comfortable mid-range stay option for visitors to Mahabalipuram.
+55,Mahabalipuram,Tamil Nadu,Mahabalipuram Travelers Hub,1500,4.1,Family,Comfortable family-friendly stay option for visitors to Mahabalipuram.
+56,Mahabalipuram,Tamil Nadu,Mahabalipuram Nature Nest,1900,4.2,Boutique,Comfortable boutique stay option for visitors to Mahabalipuram.
+57,Madurai,Tamil Nadu,Madurai Heritage Stay,2300,4.3,Budget,Comfortable budget stay option for visitors to Madurai.
+58,Madurai,Tamil Nadu,Madurai City Comfort,2700,4.4,Mid-range,Comfortable mid-range stay option for visitors to Madurai.
+59,Madurai,Tamil Nadu,Madurai Green Valley Inn,3100,4.5,Family,Comfortable family-friendly stay option for visitors to Madurai.
+60,Madurai,Tamil Nadu,Madurai Travelers Hub,3500,4.6,Boutique,Comfortable boutique stay option for visitors to Madurai.
+61,Ooty,Tamil Nadu,Ooty Nature Nest,1500,4.7,Budget,Comfortable budget stay option for visitors to Ooty.
+62,Ooty,Tamil Nadu,Ooty Heritage Stay,1900,4.8,Mid-range,Comfortable mid-range stay option for visitors to Ooty.
+63,Ooty,Tamil Nadu,Ooty City Comfort,2300,4.9,Family,Comfortable family-friendly stay option for visitors to Ooty.
+64,Ooty,Tamil Nadu,Ooty Green Valley Inn,2700,4.1,Boutique,Comfortable boutique stay option for visitors to Ooty.
+65,Kodaikanal,Tamil Nadu,Kodaikanal Travelers Hub,3100,4.2,Budget,Comfortable budget stay option for visitors to Kodaikanal.
+66,Kodaikanal,Tamil Nadu,Kodaikanal Nature Nest,3500,4.3,Mid-range,Comfortable mid-range stay option for visitors to Kodaikanal.
+67,Kodaikanal,Tamil Nadu,Kodaikanal Heritage Stay,1500,4.4,Family,Comfortable family-friendly stay option for visitors to Kodaikanal.
+68,Kodaikanal,Tamil Nadu,Kodaikanal City Comfort,1900,4.5,Boutique,Comfortable boutique stay option for visitors to Kodaikanal.
+69,Rameswaram,Tamil Nadu,Rameswaram Green Valley Inn,2300,4.6,Budget,Comfortable budget stay option for visitors to Rameswaram.
+70,Rameswaram,Tamil Nadu,Rameswaram Travelers Hub,2700,4.7,Mid-range,Comfortable mid-range stay option for visitors to Rameswaram.
+71,Rameswaram,Tamil Nadu,Rameswaram Nature Nest,3100,4.8,Family,Comfortable family-friendly stay option for visitors to Rameswaram.
+72,Rameswaram,Tamil Nadu,Rameswaram Heritage Stay,3500,4.9,Boutique,Comfortable boutique stay option for visitors to Rameswaram.
+73,Thanjavur,Tamil Nadu,Thanjavur City Comfort,1500,4.1,Budget,Comfortable budget stay option for visitors to Thanjavur.
+74,Thanjavur,Tamil Nadu,Thanjavur Green Valley Inn,1900,4.2,Mid-range,Comfortable mid-range stay option for visitors to Thanjavur.
+75,Thanjavur,Tamil Nadu,Thanjavur Travelers Hub,2300,4.3,Family,Comfortable family-friendly stay option for visitors to Thanjavur.
+76,Thanjavur,Tamil Nadu,Thanjavur Nature Nest,2700,4.4,Boutique,Comfortable boutique stay option for visitors to Thanjavur.
+77,Kanyakumari,Tamil Nadu,Kanyakumari Heritage Stay,3100,4.5,Budget,Comfortable budget stay option for visitors to Kanyakumari.
+78,Kanyakumari,Tamil Nadu,Kanyakumari City Comfort,3500,4.6,Mid-range,Comfortable mid-range stay option for visitors to Kanyakumari.
+79,Kanyakumari,Tamil Nadu,Kanyakumari Green Valley Inn,1500,4.7,Family,Comfortable family-friendly stay option for visitors to Kanyakumari.
+80,Kanyakumari,Tamil Nadu,Kanyakumari Travelers Hub,1900,4.8,Boutique,Comfortable boutique stay option for visitors to Kanyakumari.
+81,Kochi,Kerala,Kochi Nature Nest,2300,4.9,Budget,Comfortable budget stay option for visitors to Kochi.
+82,Kochi,Kerala,Kochi Heritage Stay,2700,4.1,Mid-range,Comfortable mid-range stay option for visitors to Kochi.
+83,Kochi,Kerala,Kochi City Comfort,3100,4.2,Family,Comfortable family-friendly stay option for visitors to Kochi.
+84,Kochi,Kerala,Kochi Green Valley Inn,3500,4.3,Boutique,Comfortable boutique stay option for visitors to Kochi.
+85,Munnar,Kerala,Munnar Travelers Hub,1500,4.4,Budget,Comfortable budget stay option for visitors to Munnar.
+86,Munnar,Kerala,Munnar Nature Nest,1900,4.5,Mid-range,Comfortable mid-range stay option for visitors to Munnar.
+87,Munnar,Kerala,Munnar Heritage Stay,2300,4.6,Family,Comfortable family-friendly stay option for visitors to Munnar.
+88,Munnar,Kerala,Munnar City Comfort,2700,4.7,Boutique,Comfortable boutique stay option for visitors to Munnar.
+89,Alappuzha,Kerala,Alappuzha Green Valley Inn,3100,4.8,Budget,Comfortable budget stay option for visitors to Alappuzha.
+90,Alappuzha,Kerala,Alappuzha Travelers Hub,3500,4.9,Mid-range,Comfortable mid-range stay option for visitors to Alappuzha.
+91,Alappuzha,Kerala,Alappuzha Nature Nest,1500,4.1,Family,Comfortable family-friendly stay option for visitors to Alappuzha.
+92,Alappuzha,Kerala,Alappuzha Heritage Stay,1900,4.2,Boutique,Comfortable boutique stay option for visitors to Alappuzha.
+93,Kovalam,Kerala,Kovalam City Comfort,2300,4.3,Budget,Comfortable budget stay option for visitors to Kovalam.
+94,Kovalam,Kerala,Kovalam Green Valley Inn,2700,4.4,Mid-range,Comfortable mid-range stay option for visitors to Kovalam.
+95,Kovalam,Kerala,Kovalam Travelers Hub,3100,4.5,Family,Comfortable family-friendly stay option for visitors to Kovalam.
+96,Kovalam,Kerala,Kovalam Nature Nest,3500,4.6,Boutique,Comfortable boutique stay option for visitors to Kovalam.
+97,Thekkady,Kerala,Thekkady Heritage Stay,1500,4.7,Budget,Comfortable budget stay option for visitors to Thekkady.
+98,Thekkady,Kerala,Thekkady City Comfort,1900,4.8,Mid-range,Comfortable mid-range stay option for visitors to Thekkady.
+99,Thekkady,Kerala,Thekkady Green Valley Inn,2300,4.9,Family,Comfortable family-friendly stay option for visitors to Thekkady.
+100,Thekkady,Kerala,Thekkady Travelers Hub,2700,4.1,Boutique,Comfortable boutique stay option for visitors to Thekkady.
+101,Wayanad,Kerala,Wayanad Nature Nest,3100,4.2,Budget,Comfortable budget stay option for visitors to Wayanad.
+102,Wayanad,Kerala,Wayanad Heritage Stay,3500,4.3,Mid-range,Comfortable mid-range stay option for visitors to Wayanad.
+103,Wayanad,Kerala,Wayanad City Comfort,1500,4.4,Family,Comfortable family-friendly stay option for visitors to Wayanad.
+104,Wayanad,Kerala,Wayanad Green Valley Inn,1900,4.5,Boutique,Comfortable boutique stay option for visitors to Wayanad.
+105,Varkala,Kerala,Varkala Travelers Hub,2300,4.6,Budget,Comfortable budget stay option for visitors to Varkala.
+106,Varkala,Kerala,Varkala Nature Nest,2700,4.7,Mid-range,Comfortable mid-range stay option for visitors to Varkala.
+107,Varkala,Kerala,Varkala Heritage Stay,3100,4.8,Family,Comfortable family-friendly stay option for visitors to Varkala.
+108,Varkala,Kerala,Varkala City Comfort,3500,4.9,Boutique,Comfortable boutique stay option for visitors to Varkala.
+109,Bengaluru,Karnataka,Bengaluru Green Valley Inn,1500,4.1,Budget,Comfortable budget stay option for visitors to Bengaluru.
+110,Bengaluru,Karnataka,Bengaluru Travelers Hub,1900,4.2,Mid-range,Comfortable mid-range stay option for visitors to Bengaluru.
+111,Bengaluru,Karnataka,Bengaluru Nature Nest,2300,4.3,Family,Comfortable family-friendly stay option for visitors to Bengaluru.
+112,Bengaluru,Karnataka,Bengaluru Heritage Stay,2700,4.4,Boutique,Comfortable boutique stay option for visitors to Bengaluru.
+113,Mysuru,Karnataka,Mysuru City Comfort,3100,4.5,Budget,Comfortable budget stay option for visitors to Mysuru.
+114,Mysuru,Karnataka,Mysuru Green Valley Inn,3500,4.6,Mid-range,Comfortable mid-range stay option for visitors to Mysuru.
+115,Mysuru,Karnataka,Mysuru Travelers Hub,1500,4.7,Family,Comfortable family-friendly stay option for visitors to Mysuru.
+116,Mysuru,Karnataka,Mysuru Nature Nest,1900,4.8,Boutique,Comfortable boutique stay option for visitors to Mysuru.
+117,Hampi,Karnataka,Hampi Heritage Stay,2300,4.9,Budget,Comfortable budget stay option for visitors to Hampi.
+118,Hampi,Karnataka,Hampi City Comfort,2700,4.1,Mid-range,Comfortable mid-range stay option for visitors to Hampi.
+119,Hampi,Karnataka,Hampi Green Valley Inn,3100,4.2,Family,Comfortable family-friendly stay option for visitors to Hampi.
+120,Hampi,Karnataka,Hampi Travelers Hub,3500,4.3,Boutique,Comfortable boutique stay option for visitors to Hampi.
+121,Coorg,Karnataka,Coorg Nature Nest,1500,4.4,Budget,Comfortable budget stay option for visitors to Coorg.
+122,Coorg,Karnataka,Coorg Heritage Stay,1900,4.5,Mid-range,Comfortable mid-range stay option for visitors to Coorg.
+123,Coorg,Karnataka,Coorg City Comfort,2300,4.6,Family,Comfortable family-friendly stay option for visitors to Coorg.
+124,Coorg,Karnataka,Coorg Green Valley Inn,2700,4.7,Boutique,Comfortable boutique stay option for visitors to Coorg.
+125,Gokarna,Karnataka,Gokarna Travelers Hub,3100,4.8,Budget,Comfortable budget stay option for visitors to Gokarna.
+126,Gokarna,Karnataka,Gokarna Nature Nest,3500,4.9,Mid-range,Comfortable mid-range stay option for visitors to Gokarna.
+127,Gokarna,Karnataka,Gokarna Heritage Stay,1500,4.1,Family,Comfortable family-friendly stay option for visitors to Gokarna.
+128,Gokarna,Karnataka,Gokarna City Comfort,1900,4.2,Boutique,Comfortable boutique stay option for visitors to Gokarna.
+129,Chikmagalur,Karnataka,Chikmagalur Green Valley Inn,2300,4.3,Budget,Comfortable budget stay option for visitors to Chikmagalur.
+130,Chikmagalur,Karnataka,Chikmagalur Travelers Hub,2700,4.4,Mid-range,Comfortable mid-range stay option for visitors to Chikmagalur.
+131,Chikmagalur,Karnataka,Chikmagalur Nature Nest,3100,4.5,Family,Comfortable family-friendly stay option for visitors to Chikmagalur.
+132,Chikmagalur,Karnataka,Chikmagalur Heritage Stay,3500,4.6,Boutique,Comfortable boutique stay option for visitors to Chikmagalur.
+133,Udupi,Karnataka,Udupi City Comfort,1500,4.7,Budget,Comfortable budget stay option for visitors to Udupi.
+134,Udupi,Karnataka,Udupi Green Valley Inn,1900,4.8,Mid-range,Comfortable mid-range stay option for visitors to Udupi.
+135,Udupi,Karnataka,Udupi Travelers Hub,2300,4.9,Family,Comfortable family-friendly stay option for visitors to Udupi.
+136,Udupi,Karnataka,Udupi Nature Nest,2700,4.1,Boutique,Comfortable boutique stay option for visitors to Udupi.
+137,Panaji,Goa,Panaji Heritage Stay,3100,4.2,Budget,Comfortable budget stay option for visitors to Panaji.
+138,Panaji,Goa,Panaji City Comfort,3500,4.3,Mid-range,Comfortable mid-range stay option for visitors to Panaji.
+139,Panaji,Goa,Panaji Green Valley Inn,1500,4.4,Family,Comfortable family-friendly stay option for visitors to Panaji.
+140,Panaji,Goa,Panaji Travelers Hub,1900,4.5,Boutique,Comfortable boutique stay option for visitors to Panaji.
+141,North Goa,Goa,North Goa Nature Nest,2300,4.6,Budget,Comfortable budget stay option for visitors to North Goa.
+142,North Goa,Goa,North Goa Heritage Stay,2700,4.7,Mid-range,Comfortable mid-range stay option for visitors to North Goa.
+143,North Goa,Goa,North Goa City Comfort,3100,4.8,Family,Comfortable family-friendly stay option for visitors to North Goa.
+144,North Goa,Goa,North Goa Green Valley Inn,3500,4.9,Boutique,Comfortable boutique stay option for visitors to North Goa.
+145,South Goa,Goa,South Goa Travelers Hub,1500,4.1,Budget,Comfortable budget stay option for visitors to South Goa.
+146,South Goa,Goa,South Goa Nature Nest,1900,4.2,Mid-range,Comfortable mid-range stay option for visitors to South Goa.
+147,South Goa,Goa,South Goa Heritage Stay,2300,4.3,Family,Comfortable family-friendly stay option for visitors to South Goa.
+148,South Goa,Goa,South Goa City Comfort,2700,4.4,Boutique,Comfortable boutique stay option for visitors to South Goa.
+149,Mumbai,Maharashtra,Mumbai Green Valley Inn,3100,4.5,Budget,Comfortable budget stay option for visitors to Mumbai.
+150,Mumbai,Maharashtra,Mumbai Travelers Hub,3500,4.6,Mid-range,Comfortable mid-range stay option for visitors to Mumbai.
+151,Mumbai,Maharashtra,Mumbai Nature Nest,1500,4.7,Family,Comfortable family-friendly stay option for visitors to Mumbai.
+152,Mumbai,Maharashtra,Mumbai Heritage Stay,1900,4.8,Boutique,Comfortable boutique stay option for visitors to Mumbai.
+153,Pune,Maharashtra,Pune City Comfort,2300,4.9,Budget,Comfortable budget stay option for visitors to Pune.
+154,Pune,Maharashtra,Pune Green Valley Inn,2700,4.1,Mid-range,Comfortable mid-range stay option for visitors to Pune.
+155,Pune,Maharashtra,Pune Travelers Hub,3100,4.2,Family,Comfortable family-friendly stay option for visitors to Pune.
+156,Pune,Maharashtra,Pune Nature Nest,3500,4.3,Boutique,Comfortable boutique stay option for visitors to Pune.
+157,Mahabaleshwar,Maharashtra,Mahabaleshwar Heritage Stay,1500,4.4,Budget,Comfortable budget stay option for visitors to Mahabaleshwar.
+158,Mahabaleshwar,Maharashtra,Mahabaleshwar City Comfort,1900,4.5,Mid-range,Comfortable mid-range stay option for visitors to Mahabaleshwar.
+159,Mahabaleshwar,Maharashtra,Mahabaleshwar Green Valley Inn,2300,4.6,Family,Comfortable family-friendly stay option for visitors to Mahabaleshwar.
+160,Mahabaleshwar,Maharashtra,Mahabaleshwar Travelers Hub,2700,4.7,Boutique,Comfortable boutique stay option for visitors to Mahabaleshwar.
+161,Nashik,Maharashtra,Nashik Nature Nest,3100,4.8,Budget,Comfortable budget stay option for visitors to Nashik.
+162,Nashik,Maharashtra,Nashik Heritage Stay,3500,4.9,Mid-range,Comfortable mid-range stay option for visitors to Nashik.
+163,Nashik,Maharashtra,Nashik City Comfort,1500,4.1,Family,Comfortable family-friendly stay option for visitors to Nashik.
+164,Nashik,Maharashtra,Nashik Green Valley Inn,1900,4.2,Boutique,Comfortable boutique stay option for visitors to Nashik.
+165,Aurangabad,Maharashtra,Aurangabad Travelers Hub,2300,4.3,Budget,Comfortable budget stay option for visitors to Aurangabad.
+166,Aurangabad,Maharashtra,Aurangabad Nature Nest,2700,4.4,Mid-range,Comfortable mid-range stay option for visitors to Aurangabad.
+167,Aurangabad,Maharashtra,Aurangabad Heritage Stay,3100,4.5,Family,Comfortable family-friendly stay option for visitors to Aurangabad.
+168,Aurangabad,Maharashtra,Aurangabad City Comfort,3500,4.6,Boutique,Comfortable boutique stay option for visitors to Aurangabad.
+169,Jaipur,Rajasthan,Jaipur Green Valley Inn,1500,4.7,Budget,Comfortable budget stay option for visitors to Jaipur.
+170,Jaipur,Rajasthan,Jaipur Travelers Hub,1900,4.8,Mid-range,Comfortable mid-range stay option for visitors to Jaipur.
+171,Jaipur,Rajasthan,Jaipur Nature Nest,2300,4.9,Family,Comfortable family-friendly stay option for visitors to Jaipur.
+172,Jaipur,Rajasthan,Jaipur Heritage Stay,2700,4.1,Boutique,Comfortable boutique stay option for visitors to Jaipur.
+173,Udaipur,Rajasthan,Udaipur City Comfort,3100,4.2,Budget,Comfortable budget stay option for visitors to Udaipur.
+174,Udaipur,Rajasthan,Udaipur Green Valley Inn,3500,4.3,Mid-range,Comfortable mid-range stay option for visitors to Udaipur.
+175,Udaipur,Rajasthan,Udaipur Travelers Hub,1500,4.4,Family,Comfortable family-friendly stay option for visitors to Udaipur.
+176,Udaipur,Rajasthan,Udaipur Nature Nest,1900,4.5,Boutique,Comfortable boutique stay option for visitors to Udaipur.
+177,Jodhpur,Rajasthan,Jodhpur Heritage Stay,2300,4.6,Budget,Comfortable budget stay option for visitors to Jodhpur.
+178,Jodhpur,Rajasthan,Jodhpur City Comfort,2700,4.7,Mid-range,Comfortable mid-range stay option for visitors to Jodhpur.
+179,Jodhpur,Rajasthan,Jodhpur Green Valley Inn,3100,4.8,Family,Comfortable family-friendly stay option for visitors to Jodhpur.
+180,Jodhpur,Rajasthan,Jodhpur Travelers Hub,3500,4.9,Boutique,Comfortable boutique stay option for visitors to Jodhpur.
+181,Jaisalmer,Rajasthan,Jaisalmer Nature Nest,1500,4.1,Budget,Comfortable budget stay option for visitors to Jaisalmer.
+182,Jaisalmer,Rajasthan,Jaisalmer Heritage Stay,1900,4.2,Mid-range,Comfortable mid-range stay option for visitors to Jaisalmer.
+183,Jaisalmer,Rajasthan,Jaisalmer City Comfort,2300,4.3,Family,Comfortable family-friendly stay option for visitors to Jaisalmer.
+184,Jaisalmer,Rajasthan,Jaisalmer Green Valley Inn,2700,4.4,Boutique,Comfortable boutique stay option for visitors to Jaisalmer.
+185,Pushkar,Rajasthan,Pushkar Travelers Hub,3100,4.5,Budget,Comfortable budget stay option for visitors to Pushkar.
+186,Pushkar,Rajasthan,Pushkar Nature Nest,3500,4.6,Mid-range,Comfortable mid-range stay option for visitors to Pushkar.
+187,Pushkar,Rajasthan,Pushkar Heritage Stay,1500,4.7,Family,Comfortable family-friendly stay option for visitors to Pushkar.
+188,Pushkar,Rajasthan,Pushkar City Comfort,1900,4.8,Boutique,Comfortable boutique stay option for visitors to Pushkar.
+189,Mount Abu,Rajasthan,Mount Abu Green Valley Inn,2300,4.9,Budget,Comfortable budget stay option for visitors to Mount Abu.
+190,Mount Abu,Rajasthan,Mount Abu Travelers Hub,2700,4.1,Mid-range,Comfortable mid-range stay option for visitors to Mount Abu.
+191,Mount Abu,Rajasthan,Mount Abu Nature Nest,3100,4.2,Family,Comfortable family-friendly stay option for visitors to Mount Abu.
+192,Mount Abu,Rajasthan,Mount Abu Heritage Stay,3500,4.3,Boutique,Comfortable boutique stay option for visitors to Mount Abu.
+193,Bikaner,Rajasthan,Bikaner City Comfort,1500,4.4,Budget,Comfortable budget stay option for visitors to Bikaner.
+194,Bikaner,Rajasthan,Bikaner Green Valley Inn,1900,4.5,Mid-range,Comfortable mid-range stay option for visitors to Bikaner.
+195,Bikaner,Rajasthan,Bikaner Travelers Hub,2300,4.6,Family,Comfortable family-friendly stay option for visitors to Bikaner.
+196,Bikaner,Rajasthan,Bikaner Nature Nest,2700,4.7,Boutique,Comfortable boutique stay option for visitors to Bikaner.
+197,New Delhi,Delhi,New Delhi Heritage Stay,3100,4.8,Budget,Comfortable budget stay option for visitors to New Delhi.
+198,New Delhi,Delhi,New Delhi City Comfort,3500,4.9,Mid-range,Comfortable mid-range stay option for visitors to New Delhi.
+199,New Delhi,Delhi,New Delhi Green Valley Inn,1500,4.1,Family,Comfortable family-friendly stay option for visitors to New Delhi.
+200,New Delhi,Delhi,New Delhi Travelers Hub,1900,4.2,Boutique,Comfortable boutique stay option for visitors to New Delhi.
+201,Agra,Uttar Pradesh,Agra Nature Nest,2300,4.3,Budget,Comfortable budget stay option for visitors to Agra.
+202,Agra,Uttar Pradesh,Agra Heritage Stay,2700,4.4,Mid-range,Comfortable mid-range stay option for visitors to Agra.
+203,Agra,Uttar Pradesh,Agra City Comfort,3100,4.5,Family,Comfortable family-friendly stay option for visitors to Agra.
+204,Agra,Uttar Pradesh,Agra Green Valley Inn,3500,4.6,Boutique,Comfortable boutique stay option for visitors to Agra.
+205,Varanasi,Uttar Pradesh,Varanasi Travelers Hub,1500,4.7,Budget,Comfortable budget stay option for visitors to Varanasi.
+206,Varanasi,Uttar Pradesh,Varanasi Nature Nest,1900,4.8,Mid-range,Comfortable mid-range stay option for visitors to Varanasi.
+207,Varanasi,Uttar Pradesh,Varanasi Heritage Stay,2300,4.9,Family,Comfortable family-friendly stay option for visitors to Varanasi.
+208,Varanasi,Uttar Pradesh,Varanasi City Comfort,2700,4.1,Boutique,Comfortable boutique stay option for visitors to Varanasi.
+209,Lucknow,Uttar Pradesh,Lucknow Green Valley Inn,3100,4.2,Budget,Comfortable budget stay option for visitors to Lucknow.
+210,Lucknow,Uttar Pradesh,Lucknow Travelers Hub,3500,4.3,Mid-range,Comfortable mid-range stay option for visitors to Lucknow.
+211,Lucknow,Uttar Pradesh,Lucknow Nature Nest,1500,4.4,Family,Comfortable family-friendly stay option for visitors to Lucknow.
+212,Lucknow,Uttar Pradesh,Lucknow Heritage Stay,1900,4.5,Boutique,Comfortable boutique stay option for visitors to Lucknow.
+213,Mathura,Uttar Pradesh,Mathura City Comfort,2300,4.6,Budget,Comfortable budget stay option for visitors to Mathura.
+214,Mathura,Uttar Pradesh,Mathura Green Valley Inn,2700,4.7,Mid-range,Comfortable mid-range stay option for visitors to Mathura.
+215,Mathura,Uttar Pradesh,Mathura Travelers Hub,3100,4.8,Family,Comfortable family-friendly stay option for visitors to Mathura.
+216,Mathura,Uttar Pradesh,Mathura Nature Nest,3500,4.9,Boutique,Comfortable boutique stay option for visitors to Mathura.
+217,Dehradun,Uttarakhand,Dehradun Heritage Stay,1500,4.1,Budget,Comfortable budget stay option for visitors to Dehradun.
+218,Dehradun,Uttarakhand,Dehradun City Comfort,1900,4.2,Mid-range,Comfortable mid-range stay option for visitors to Dehradun.
+219,Dehradun,Uttarakhand,Dehradun Green Valley Inn,2300,4.3,Family,Comfortable family-friendly stay option for visitors to Dehradun.
+220,Dehradun,Uttarakhand,Dehradun Travelers Hub,2700,4.4,Boutique,Comfortable boutique stay option for visitors to Dehradun.
+221,Rishikesh,Uttarakhand,Rishikesh Nature Nest,3100,4.5,Budget,Comfortable budget stay option for visitors to Rishikesh.
+222,Rishikesh,Uttarakhand,Rishikesh Heritage Stay,3500,4.6,Mid-range,Comfortable mid-range stay option for visitors to Rishikesh.
+223,Rishikesh,Uttarakhand,Rishikesh City Comfort,1500,4.7,Family,Comfortable family-friendly stay option for visitors to Rishikesh.
+224,Rishikesh,Uttarakhand,Rishikesh Green Valley Inn,1900,4.8,Boutique,Comfortable boutique stay option for visitors to Rishikesh.
+225,Nainital,Uttarakhand,Nainital Travelers Hub,2300,4.9,Budget,Comfortable budget stay option for visitors to Nainital.
+226,Nainital,Uttarakhand,Nainital Nature Nest,2700,4.1,Mid-range,Comfortable mid-range stay option for visitors to Nainital.
+227,Nainital,Uttarakhand,Nainital Heritage Stay,3100,4.2,Family,Comfortable family-friendly stay option for visitors to Nainital.
+228,Nainital,Uttarakhand,Nainital City Comfort,3500,4.3,Boutique,Comfortable boutique stay option for visitors to Nainital.
+229,Mussoorie,Uttarakhand,Mussoorie Green Valley Inn,1500,4.4,Budget,Comfortable budget stay option for visitors to Mussoorie.
+230,Mussoorie,Uttarakhand,Mussoorie Travelers Hub,1900,4.5,Mid-range,Comfortable mid-range stay option for visitors to Mussoorie.
+231,Mussoorie,Uttarakhand,Mussoorie Nature Nest,2300,4.6,Family,Comfortable family-friendly stay option for visitors to Mussoorie.
+232,Mussoorie,Uttarakhand,Mussoorie Heritage Stay,2700,4.7,Boutique,Comfortable boutique stay option for visitors to Mussoorie.
+233,Haridwar,Uttarakhand,Haridwar City Comfort,3100,4.8,Budget,Comfortable budget stay option for visitors to Haridwar.
+234,Haridwar,Uttarakhand,Haridwar Green Valley Inn,3500,4.9,Mid-range,Comfortable mid-range stay option for visitors to Haridwar.
+235,Haridwar,Uttarakhand,Haridwar Travelers Hub,1500,4.1,Family,Comfortable family-friendly stay option for visitors to Haridwar.
+236,Haridwar,Uttarakhand,Haridwar Nature Nest,1900,4.2,Boutique,Comfortable boutique stay option for visitors to Haridwar.
+237,Shimla,Himachal Pradesh,Shimla Heritage Stay,2300,4.3,Budget,Comfortable budget stay option for visitors to Shimla.
+238,Shimla,Himachal Pradesh,Shimla City Comfort,2700,4.4,Mid-range,Comfortable mid-range stay option for visitors to Shimla.
+239,Shimla,Himachal Pradesh,Shimla Green Valley Inn,3100,4.5,Family,Comfortable family-friendly stay option for visitors to Shimla.
+240,Shimla,Himachal Pradesh,Shimla Travelers Hub,3500,4.6,Boutique,Comfortable boutique stay option for visitors to Shimla.
+241,Manali,Himachal Pradesh,Manali Nature Nest,1500,4.7,Budget,Comfortable budget stay option for visitors to Manali.
+242,Manali,Himachal Pradesh,Manali Heritage Stay,1900,4.8,Mid-range,Comfortable mid-range stay option for visitors to Manali.
+243,Manali,Himachal Pradesh,Manali City Comfort,2300,4.9,Family,Comfortable family-friendly stay option for visitors to Manali.
+244,Manali,Himachal Pradesh,Manali Green Valley Inn,2700,4.1,Boutique,Comfortable boutique stay option for visitors to Manali.
+245,Dharamshala,Himachal Pradesh,Dharamshala Travelers Hub,3100,4.2,Budget,Comfortable budget stay option for visitors to Dharamshala.
+246,Dharamshala,Himachal Pradesh,Dharamshala Nature Nest,3500,4.3,Mid-range,Comfortable mid-range stay option for visitors to Dharamshala.
+247,Dharamshala,Himachal Pradesh,Dharamshala Heritage Stay,1500,4.4,Family,Comfortable family-friendly stay option for visitors to Dharamshala.
+248,Dharamshala,Himachal Pradesh,Dharamshala City Comfort,1900,4.5,Boutique,Comfortable boutique stay option for visitors to Dharamshala.
+249,Dalhousie,Himachal Pradesh,Dalhousie Green Valley Inn,2300,4.6,Budget,Comfortable budget stay option for visitors to Dalhousie.
+250,Dalhousie,Himachal Pradesh,Dalhousie Travelers Hub,2700,4.7,Mid-range,Comfortable mid-range stay option for visitors to Dalhousie.
+251,Dalhousie,Himachal Pradesh,Dalhousie Nature Nest,3100,4.8,Family,Comfortable family-friendly stay option for visitors to Dalhousie.
+252,Dalhousie,Himachal Pradesh,Dalhousie Heritage Stay,3500,4.9,Boutique,Comfortable boutique stay option for visitors to Dalhousie.
+253,Srinagar,Jammu and Kashmir,Srinagar City Comfort,1500,4.1,Budget,Comfortable budget stay option for visitors to Srinagar.
+254,Srinagar,Jammu and Kashmir,Srinagar Green Valley Inn,1900,4.2,Mid-range,Comfortable mid-range stay option for visitors to Srinagar.
+255,Srinagar,Jammu and Kashmir,Srinagar Travelers Hub,2300,4.3,Family,Comfortable family-friendly stay option for visitors to Srinagar.
+256,Srinagar,Jammu and Kashmir,Srinagar Nature Nest,2700,4.4,Boutique,Comfortable boutique stay option for visitors to Srinagar.
